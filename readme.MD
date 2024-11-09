@@ -53,3 +53,4 @@ vpc_peering_tags (Optional) default is empty. user can supply tags in map(string
 * public_subnet_ids: list of 2 public subnet ids created.
 * private_subnet_ids: list of 2 private subnet ids created.
 * database_subnet_ids: list of 2 database subnet ids created.
+# terraform-rds-vpc
